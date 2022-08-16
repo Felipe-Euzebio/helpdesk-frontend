@@ -1,31 +1,30 @@
 .container {
-    width: 90%;
-    margin: auto;
+   width: 90%;
+   margin: auto;
 }
 
 table {
-    width: 100%;
+   width: 100%;
 }
 
-.mat-form-field {
-    font-size: 14px;
-    width: 100%;
+mat-form-field {
+   width: 100%;
 }
 
 button {
-    width: 100%;
+   width: 100%;
 }
 
 h1 {
-    width: 100%;
-    text-align: left;
-    margin-bottom: 2rem;
+   width: 100%;
+   text-align: left;
+   margin-bottom: 2rem;
 }
 
 .edit {
-    color: rgb(0,153,255);
+   color: rgb(0, 153, 255);
 }
 
 .delete {
-    color: red;
+   color: red;
 }
