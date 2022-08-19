@@ -13,7 +13,7 @@ export class ClienteListComponent implements OnInit {
 
   ELEMENT_DATA: Cliente[] = [];
 
-  displayedColumns: string[] = ['id', 'nome', 'cpf', 'email', 'acoes'];
+  displayedColumns: string[] = ['id', 'titulo', 'cliente', 'dataAbertura', 'prioridade', 'status', 'acoes'];
   dataSource = new MatTableDataSource<Cliente>(this.ELEMENT_DATA);
 
   @ViewChild(MatPaginator) paginator: MatPaginator;
