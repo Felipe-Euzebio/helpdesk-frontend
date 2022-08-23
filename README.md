@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [Access to the running application](https://helpdesk-frontend-jet.vercel.app/)
 
-> Note: the default/ admin login credentials are:
+> **Default/ Admin login credentials are:**
 > - Email: admin@gmail.com
 > - Password: admin
 
