@@ -4,11 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [Access to the running application](https://helpdesk-frontend-jet.vercel.app/)
 
-> **Default/ Admin login credentials are:**
-> - Email: admin@gmail.com
-> - Password: admin
-
 [Back-end Source Code](https://github.com/Felipe-Euzebio/helpdesk-backend.git)
+
+**Note: the default/ admin login credentials are:**
+- Email: admin@gmail.com
+- Password: admin
 
 ## Development server
 
